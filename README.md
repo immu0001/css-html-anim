@@ -3,4 +3,4 @@ html css js animation on image transition
 
 ### Screenshot 
 
-<img src=download.png height=520 width=700>
+<img src=download.png height=520 width=1200>
